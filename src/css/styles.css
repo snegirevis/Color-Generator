@@ -1,0 +1,115 @@
+
+
+.ordinary_text{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+
+.medium_text{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+
+.logo_text{
+    font-family:'Press Start 2P', cursive ;   
+}
+
+.nav_styles{
+  height: 120px;
+}
+
+.main_field{
+    height: 600px;
+    margin-top: 50px;
+    
+}
+
+.color_field{
+  height: 300px;
+  width: 300px;
+  margin-top: 80px;
+}
+
+.color_declarator{
+  padding-top: 260px;
+  padding-left: 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+
+.generate_button{
+  height: 80px;
+  width: 200px;
+}
+
+.gradients{
+  height: 300px;
+  width: 300px;
+  margin-top: 50px;
+
+}
+
+.gradient_declarator_1{
+  font-family:'Montserrat', sans-serif;
+  font-weight: 300;
+  padding-left: 220px;
+  padding-top: 10px;
+  font-size: 12px;
+}
+
+.gradient_declarator_2{
+  font-family:'Montserrat', sans-serif ;
+  font-weight: 300;
+  padding-top: 220px;
+  padding-left: 5px;
+  font-size: 12px;
+  
+}
+
+.footer{
+  margin-top: 100px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  background-color: pink;
+}
+
+.palette_img{
+  height: 100px;
+  width: 100px;
+}
+
+.sunset_img{
+  width: 100px;
+
+}
+
+.about_hr{
+  margin-top: 80px;
+}
+
+.try_button{
+  margin-top: 120px;
+  height: 80px;
+  width: 200px;
+  background-color: #f4bb2e;
+}
+
+.send_button{
+  height: 65px;
+  width: 200px;
+}
+
+.carousel-item{
+  position: relative;
+}
+
+#carouselButton {
+  left: 20px;
+  position: absolute;
+  bottom: 20px;
+  z-index: 1;
+}
+
+.trial{
+  background-color: blue;
+}
